@@ -1,0 +1,16 @@
+/* font awesome cdn */
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+.bg-orange {
+  background-color: #f4511e;
+}
+
+.icon{
+color: #f4511e ;
+font-size: 15rem;
+}
+
+.icon-sm{
+    color: #f4511e;
+    font-size: 5rem;
+}
